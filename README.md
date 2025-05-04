@@ -5,3 +5,4 @@ Anotações do estudo diário (quando não há commit)
 24/04/2025 - Leitura Ativa do livor Entendendo algoritmos de Bhargava <br/>
 26/04/2025 - Dia de fogo do estudo ativo para concurso público
 29/04/2025 - Fazendo projeto freela para um cliente
+03/05/2025 - Organização de rotina de estudos do mês de Maio
