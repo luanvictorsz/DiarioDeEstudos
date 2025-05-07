@@ -7,3 +7,4 @@ Anotações do estudo diário (quando não há commit)
 29/04/2025 - Fazendo projeto freela para um cliente
 03/05/2025 - Organização de rotina de estudos do mês de Maio
 04/05/2025 - Estudo da historia do Brasil (ENEM)
+Justificar falta dia 05/05/2025
