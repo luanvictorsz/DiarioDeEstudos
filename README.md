@@ -9,3 +9,4 @@ Anotações do estudo diário (quando não há commit)
 04/05/2025 - Estudo da historia do Brasil (ENEM)
 Justificar falta dia 05/05/2025
 09/05/2025 - Estudos focados em Angular, projetos em maquina
+10/05/2025 - Estudos focados na vaga de trabalho
