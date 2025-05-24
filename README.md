@@ -10,4 +10,6 @@ Anotações do estudo diário (quando não há commit)
 Justificar falta dia 05/05/2025
 09/05/2025 - Estudos focados em Angular, projetos em maquina
 10/05/2025 - Estudos focados na vaga de trabalho
-22/05/2025 - Treinamento de LOgica focando no desafio de segunda feira (Teste prático)
+22/05/2025 - Treinamento de Lógica focando no desafio de segunda feira (Teste prático)
+23/05/2025 - Solucão de desafios com a linguagem c#.
+
