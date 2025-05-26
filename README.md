@@ -13,3 +13,4 @@ Justificar falta dia 05/05/2025 <br/>
 22/05/2025 - Treinamento de Lógica focando no desafio de segunda feira (Teste prático) <br/>
 23/05/2025 - Solucão de desafios com a linguagem c#. <br/>
 24/05/2025 - Treinamento de Lógica focando no desafio de segunda feira (Teste prático), atualizando o curriculo <br/>
+25/05/2025 - Ultimo dia de foco para a entrevista tecnica de amanhã
