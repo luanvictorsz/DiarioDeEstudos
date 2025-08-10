@@ -16,3 +16,4 @@ Justificar falta dia 05/05/2025 <br/>
 25/05/2025 - Ultimo dia de foco para a entrevista tecnica de amanhã
 06/06/2025 - Projeto em fork, fazer migração do projeto para angular e utilizar PrimeNG para componentes.
 22/06/2025 - Estudo téorico relacionado a Angular 17 e instalação de nova distro no notebook
+10/08/2025 - Estudo téorico relacionado ao idioma Japones.
