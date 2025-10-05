@@ -17,3 +17,4 @@ Justificar falta dia 05/05/2025 <br/>
 06/06/2025 - Projeto em fork, fazer migração do projeto para angular e utilizar PrimeNG para componentes.
 22/06/2025 - Estudo téorico relacionado a Angular 17 e instalação de nova distro no notebook
 10/08/2025 - Estudo téorico relacionado ao idioma Japones.
+02/10/2025 - Base de Godot em Linux, fixando desenvolvimento em 3D e modelagem low poly
