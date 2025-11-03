@@ -13,10 +13,10 @@ Justificar falta dia 05/05/2025 <br/>
 22/05/2025 - Treinamento de Lógica focando no desafio de segunda feira (Teste prático) <br/>
 23/05/2025 - Solucão de desafios com a linguagem c#. <br/>
 24/05/2025 - Treinamento de Lógica focando no desafio de segunda feira (Teste prático), atualizando o curriculo <br/>
-25/05/2025 - Ultimo dia de foco para a entrevista tecnica de amanhã
-06/06/2025 - Projeto em fork, fazer migração do projeto para angular e utilizar PrimeNG para componentes.
-22/06/2025 - Estudo téorico relacionado a Angular 17 e instalação de nova distro no notebook
-10/08/2025 - Estudo téorico relacionado ao idioma Japones.
-02/10/2025 - Base de Godot em Linux, fixando desenvolvimento em 3D e modelagem low poly
-05/10/2025 - Fixando conceitos de Vector, RigidBody e colisão em projetos 3D na unity + desenvolvimento de "linktree" personalizado
-19/10/2025 - Estudo téorico e pratico sobre rotação, vetores e signals em Godot
+25/05/2025 - Ultimo dia de foco para a entrevista tecnica de amanhã <br/>
+06/06/2025 - Projeto em fork, fazer migração do projeto para angular e utilizar PrimeNG para componentes. <br/>
+22/06/2025 - Estudo téorico relacionado a Angular 17 e instalação de nova distro no notebook <br/>
+10/08/2025 - Estudo téorico relacionado ao idioma Japones. <br/>
+02/10/2025 - Base de Godot em Linux, fixando desenvolvimento em 3D e modelagem low poly <br/>
+05/10/2025 - Fixando conceitos de Vector, RigidBody e colisão em projetos 3D na unity + desenvolvimento de "linktree" personalizado <br/>
+19/10/2025 - Estudo téorico e pratico sobre rotação, vetores e signals em Godot <br/>
