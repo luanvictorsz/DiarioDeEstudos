@@ -21,3 +21,4 @@ Justificar falta dia 05/05/2025 <br/>
 05/10/2025 - Fixando conceitos de Vector, RigidBody e colisão em projetos 3D na unity + desenvolvimento de "linktree" personalizado <br/>
 19/10/2025 - Estudo téorico e pratico sobre rotação, vetores e signals em Godot <br/>
 22/12/2025 - Estudos relacionado a documentação do Notion e as rotinas do trabalho.
+03/02/2025 - Estudos da Godot - estruturas repetitivas em objetos
